@@ -4,7 +4,7 @@ I’m Neha Yadav, a passionate frontend developer with a keen eye for design and
 
 Skills:  REACT / JS / HTML / CSS / JAVA
 
-- 🌱 I’m currently learning Enhancing my proficiency in building dynamic and efficient web applications with advanced React concepts. 
+- 🌱 I’m currently Enhancing my proficiency in building dynamic and efficient web applications with advanced React concepts. 
 
 
 
