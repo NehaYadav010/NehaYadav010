@@ -11,4 +11,5 @@ Skills:  REACT / JS / HTML / CSS / JAVA
 
 
 
-[![Top Langs](https://g/ithub-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaYadav010&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaYadav010)](https://github.com/anuraghazra/github-readme-stats)
